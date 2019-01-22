@@ -50,7 +50,7 @@
   "dependencies": {
     "doiuse": "^4.2.0",
     "lodash": "^4.17.4",
-    "postcss": "^7.0.0"
+    "postcss": "^7.0.14"
   },
   "peerDependencies": {
     "stylelint": ">=5.0.0"
